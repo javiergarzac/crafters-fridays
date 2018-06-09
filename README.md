@@ -12,4 +12,3 @@ Este repositorio contiene las soluciones retos que ponemos cada viernes.
 [Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-001.html) encontrarás las instrucciones del ejercicio.
 ### Soluciones
 * [Oswaldo D. Gomez Huerta](https://github.com/oswaldo89), Javascript, https://gist.github.com/oswaldo89/e6f687c63f4d693030a1a1eef85dde70 .
-* [Javier Garza Cantisani](https://github.com/javiergarzac), Javascript, https://gist.github.com/javiergarzac/a767f6b1c2887f1b9688c735b9f1d684 .
